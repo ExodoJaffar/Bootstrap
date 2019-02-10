@@ -1,3 +1,5 @@
 node_modules
-*.json
-index-local
+/index-local.html
+/package.json
+/package-lock.json
+
