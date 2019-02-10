@@ -1,5 +1,5 @@
 node_modules
-/index-local.php
+/local/
 /package.json
 /package-lock.json
 
