@@ -1,11 +1,11 @@
 <?php 
-$title = 'Bootstrap - Curso'
+$title = 'Bootstrap - Curso';
 
 include "head.php";
 
 include "write-bootstrap.php";
 
-include "end-body";
+include "end-body.php";
 ?>
 
     
